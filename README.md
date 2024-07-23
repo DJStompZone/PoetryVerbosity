@@ -17,7 +17,7 @@ The only prerequisites for this utility are:
 
 ## Installation
 
-1. Save this setup script locally as `setup-poetry-wrapper.sh`.
+1. Save [the setup script](https://github.com/DJStompZone/PoetryVerbosity/blob/main/setup-poetry-wrapper.sh) locally as `setup-poetry-wrapper.sh`.
 
 2. Make sure the script is executable:
 
